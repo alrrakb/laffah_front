@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "ورق عنب",
+    "mainImage": "https://placehold.co/1080x1080/png",
+    "images": [
+      "https://placehold.co/400",
+      "https://placehold.co/400",
+      "https://placehold.co/400"
+    ],
+    "description": "هذا المنتج يتميز بجودته العالية وطعمه الرائع. جربه لتستمتع بتجربة فريدة من نوعها.",
+    "price": 25.99,
+    "rate": 4.2
+  },
+  {
+    "id": 2,
+    "title": "ملفوف",
+    "mainImage": "https://placehold.co/1080x1080/png",
+    "images": [
+      "https://placehold.co/400",
+      "https://placehold.co/400",
+      "https://placehold.co/400"
+    ],
+    "description": "منتج طازج يتمتع بمذاق مميز وقيمة غذائية عالية. مثالي لإعداد الوجبات الصحية.",
+    "price": 15.5,
+    "rate": 4
+  },
+  {
+    "id": 3,
+    "title": "كوكيز",
+    "mainImage": "https://placehold.co/1080x1080/png",
+    "images": [
+      "https://placehold.co/400",
+      "https://placehold.co/400",
+      "https://placehold.co/400"
+    ],
+    "description": "كوكيز لذيذة ومقرمشة تحلى بها أوقاتك مع فنجان قهوة أو شاي. مثالية للإفطار أو كوجبة خفيفة.",
+    "price": 18.75,
+    "rate": 4.3
+  },
+  {
+    "id": 4,
+    "title": "ورق عنب سبايسى",
+    "mainImage": "https://placehold.co/1080x1080/png",
+    "images": [
+      "https://placehold.co/400",
+      "https://placehold.co/400",
+      "https://placehold.co/400"
+    ],
+    "description": "نكهة مميزة مع طابع تبويبي حاد يمنحك تجربة استثنائية مع كل قضمة. مناسب لعشاق الطعام الحاد.",
+    "price": 29.99,
+    "rate": 4.5
+  },
+  {
+    "id": 5,
+    "title": "ورق عنب دبس رمان",
+    "mainImage": "https://placehold.co/1080x1080/png",
+    "images": [
+      "https://placehold.co/400",
+      "https://placehold.co/400",
+      "https://placehold.co/400"
+    ],
+    "description": "توليفة مثالية تجمع بين نكهة ورق العنب وحلاوة دبس الرمان، تقدم تجربة تذوق لا مثيل لها.",
+    "price": 32.5,
+    "rate": 4.6
+  },
+  {
+    "id": 6,
+    "title": "منتج مميز",
+    "mainImage": "https://placehold.co/1080x1080/png",
+    "images": [
+      "https://placehold.co/400",
+      "https://placehold.co/400",
+      "https://placehold.co/400"
+    ],
+    "description": "هذا المنتج الإضافي يقدم قيمة وجودة عالية لمختلف الاستخدامات مع تصميم جذاب ومميز.",
+    "price": 22,
+    "rate": 4.1
+  }
+]
